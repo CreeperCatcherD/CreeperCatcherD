@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CreeperCatcherD
-- 👀 I’m interested in programming and Electrical Engineering
-- 🌱 I’m currently learning high school Calculus.
-<!--- 💞️ I’m looking to collaborate on ...
-<!--- 📫 How to reach me ...
+- Hi, I’m @CreeperCatcherD
+- I’m am attending college for Electrical Engineering
+- I am interested in Large Language Models, Image Generation, and virtual assistants.
 
 <!---
 CreeperCatcherD/CreeperCatcherD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
